@@ -1,0 +1,122 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+.nav-logo{
+  width: 100px;
+  height: auto;
+}
+.nav-links{
+  
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  list-style-type: none;
+  width: 50%;
+}
+nav{
+  display: flex;
+  background-color: white;
+  align-items: center;
+  justify-content: space-around;
+ 
+  
+}
+header{
+  position: fixed;
+  width: 100vw;
+
+}
+main-logo{
+ width: 10rem;
+  
+}
+
+main{
+  display: flex;
+  flex-direction: row;
+  padding: 4rem;
+
+}
+.left{
+ 
+ width: 100%;
+ margin-top: 19rem;
+ margin-left: 9rem;
+ 
+ 
+
+}
+.main-logo{
+  width: 30rem;
+}
+
+
+.right{
+  width: 50%;
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  /* padding: 3rem; */
+  row-gap: 13rem;
+  margin-right: 16rem;
+  margin-top: 12rem;    
+
+}
+.list{
+  list-style-type: none;
+  justify-content: center;
+  padding: 3rem;
+  
+}
+.sumbit{
+  background-color: blue;
+  color: white;
+}
+
+.box1{
+  font-size: 17px;
+  padding: 14px 16px;
+  width: 330px;
+  margin: 16px;
+}
+.submit{
+  font-size: 17px;
+  padding: 14px 16px;
+  width: 350px;
+  background-color: blue;
+  color: white;
+  margin: 16px;
+  margin-left: 24px;
+  
+}
+.create{
+  font-size: 17px;
+  background-color: green;
+  color: white;
+  padding: 14px 16px;
+  width: 350px;
+  margin: 16px;
+  margin-left: 30px;
+}
+a{
+  display: flex;
+  justify-content: center;
+  margin: 8px;
+}
+.text{
+  font-size: x-large;
+}
+.line{
+  width: 350px;
+  margin-left: 24px;
+}
+body{
+  background-color: cornflowerblue;
+}
+.business{
+  margin-left: 45vw;
+  font-size: x-large;
+}
